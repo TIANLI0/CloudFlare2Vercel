@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://{DOMAIN}/$1"}
+      {"src": "/(.*)","dest": "https://https://hpp.tianli.workers.dev/$1"}
   ]
 }
